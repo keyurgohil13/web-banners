@@ -17,8 +17,9 @@ This repository contains a simple yet elegant web banner designed using **HTML &
    ```bash
    git clone https://github.com/keyurgohil13/web-banners.git
    ```
-2. **Open `index.html` in your browser**  
-3. **Customize the content and styles in `style.css`**  
+2. **Change branches in repo** 
+3. **Open `index.html` in your browser**  
+4. **Customize the content and styles in `style.css`**  
 
 ## 💡 Customization:
 You can easily modify the banner by editing the `index.html` and `style.css` files:
